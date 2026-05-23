@@ -208,4 +208,10 @@ TestRunner.java
 # Author
 
 Khairun Najmi M
+
 Created for QA Automation Technical Test.
+
+
+# Automation Script Test Run Sample:
+
+https://drive.google.com/file/d/1_119BwNHLD__iJEGgVw3eC-P5v4C52tB/view?usp=drive_link
