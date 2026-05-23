@@ -1,0 +1,3 @@
+org\example\drivers\DriverManager.class
+org\example\hooks\Hooks.class
+org\example\pageObject\LoginPage.class
